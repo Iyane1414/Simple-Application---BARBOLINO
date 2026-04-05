@@ -62,7 +62,7 @@ internal class Program
                 return value;
             }
 
-            Console.WriteLine("This is the Activity 3 branch.");
+            Console.WriteLine("Invalid input. Please enter a valid non-negative number.");
         }
     }
 }
